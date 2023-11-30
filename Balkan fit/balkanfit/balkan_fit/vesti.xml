@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<chanel>
+	<title>Vesti</title>
+	<link></link>
+	<description>RSS za vesti</description>
+<item>
+	<title>Novi Program Functional Fitness</title>
+	<link></link>
+	<description>Efikasan trening za unapređenje svakodnevnih sposobnosti i celokupnog zdravlja.</description>
+</item>	
+<item>
+	<title>Vikend Bootcamp Specijal</title>
+	<link></link>
+	<description>Intenzivan vikend trening za brze rezultate</description>
+</item>
+<item>
+	<title>Nutricionistički Saveti u Decembru</title>
+	<link></link>
+	<description>Prilagođeni saveti za zdravu ishranu tokom praznične sezone</description>
+</item>
+<item>
+	<title>Dodatni Termini Grupnih Časova</title>
+	<link></link>
+	<description>Više vremena za zajednički trening i motivaciju</description>
+</item>
+</chanel>
+</rss>
